@@ -1,13 +1,10 @@
 # flipclass_crawler
-Scrap the web by selenium(webdriver)
-you can made an auto-sign script with click function by webdriver ,etc
-
 
 Scrap the flipclass by selenium
 
-you can made an auto-sign script with click function by webdriver ,
+you can made an auto-sign script with click function by webdriver ,etc
 
-#require chromedriver
+#require chromedriver.exe
 
 preview for default output:
 
