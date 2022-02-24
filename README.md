@@ -5,6 +5,7 @@ Scrap the flipclass by selenium
 you can made an auto-sign script with click function by webdriver ,etc
 
 #require chromedriver.exe
+https://chromedriver.chromium.org/
 
 preview for default output:
 
@@ -68,3 +69,4 @@ preview for default output:
 課程連結: https://flipclass.stust.edu.tw/media/doc/98446
 標題: 路徑中第一個 / 的意義
 ```
+![image](https://user-images.githubusercontent.com/72063585/155531449-4c55561c-0294-4dfe-8767-3ecde2e2c944.png)
